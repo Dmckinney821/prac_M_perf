@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1, 
+        "name": "Dan Mickey",
+        "company": "Desginers plus",
+        "phone": "444-123-1234"
+    },
+    {
+        "id": 2, 
+        "name": "Stone Mickey",
+        "company": "Hops plus",
+        "phone": "444-123-1234"
+    },
+    {
+        "id": 3, 
+        "name": "Hominy Mickey",
+        "company": "Desginers plus",
+        "phone": "444-123-1234"
+    }
+]
